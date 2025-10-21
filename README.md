@@ -1,6 +1,6 @@
 # 🎬 Netflix Clone – Full Stack MERN App
 
-![Netflix Clone Vorschau](https://github.com/HerrOzguven/Netflix-Clone/blob/main/preview.png)
+![Netflix Clone Vorschau](https://github.com/ramazanozguven/08_Netflix-UI-Design-mit-React/blob/195f55ddf123be86aba7946ce1b74460cfb98363/Projekt-Screenshot.png)
 
 ## React UI Design & Full Stack Movie Application  
 Ein modernes **Netflix-Clone-Projekt**, das sowohl das **Frontend mit React** als auch das **Backend mit Node.js, Express und MongoDB** umfasst. Dieses Projekt wurde entwickelt, um die Benutzeroberfläche und Funktionalität von Netflix nachzubilden – einschließlich Benutzeranmeldung, JWT-Authentifizierung, Filmverwaltung, Admin-Dashboard und dynamischer API-Verbindungen.
